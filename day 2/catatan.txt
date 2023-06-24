@@ -1,0 +1,1 @@
+f-string adalah print auto conversi ke string tanpa perlu conversi
